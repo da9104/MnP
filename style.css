@@ -153,3 +153,13 @@ nav #menu a:nth-last-child(1) h5 {
 #map {
     height: 100%;
   }
+
+  @media only screen and (max-width: 600px) {
+    #menu {
+        visibility: hidden;
+    }
+
+    .brand h1 {
+        font-size: 12px;
+    }
+  }
