@@ -162,4 +162,8 @@ nav #menu a:nth-last-child(1) h5 {
     .brand h1 {
         font-size: 12px;
     }
+
+    #middle_heading {
+        width: 200px;
+    }
   }
